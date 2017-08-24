@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IGNITE</string>
+    <string name="click_to_scan">Click to Scan</string>
+    <string name="Back">Back</string>
+</resources>

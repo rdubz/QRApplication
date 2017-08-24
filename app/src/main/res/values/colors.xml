@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E21212</color>
+    <color name="biofirered">#F52222</color>
+    <color name="colorPrimaryDark">#2A2626</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonPressed">#4C4C4C</color>
+    <color name="buttonBackground">#2A2626</color>
+</resources>
