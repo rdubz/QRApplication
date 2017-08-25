@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements ZXingScannerView.
         if(completedDepartment != null)
         {
             //mark department as completed
-
+            //adding a little change here
         }
 
         SetUpUI();
